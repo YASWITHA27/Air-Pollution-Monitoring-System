@@ -30,17 +30,25 @@ I have worked on Arduino IDE associating the hardware circuitry and calibrated t
 •	D5 ==> DB5
 
 •	D4 ==> DB6
+
 •	D3 ==> DB7
+
 •	5V ==> LED+
+
 •	GND ==> LED-
+
 •	Arduino ==> Gas sensor
 
 •	GND ==> GND
+
 •	5V ==> Vcc
+
 •	Analog0 ==> A0
+
 •	Arduino ==> ESP8266
 
 •	D10 ==> Tx
+
 •	D11 ==> Rx
 
 

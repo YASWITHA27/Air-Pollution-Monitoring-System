@@ -1,0 +1,2 @@
+# Air-Pollution-Monitoring-System
+I have worked on Arduino IDE associating the hardware circuitry and calibrated the results with MQ135 Gas sensor which gives us an output in serial monitor showing the risk of pollution levels, the amount of CO2 PPM present in the atmosphere. This system continuously monitors the CO2 levels present in the atmosphere and prints the risk level present (Fresh Air, Poor Air, Very Poor Air according to the PPM levels ) 

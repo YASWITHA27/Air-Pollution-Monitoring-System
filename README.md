@@ -10,8 +10,14 @@ I have worked on Arduino IDE associating the hardware circuitry and calibrated t
 *Arduino ==> LCD*
 
 •	GND ==> GND
+
+
 •	5 V ==> Vcc
+
+
 •	D13 ==> RS
+
+
 •	GND ==> R/W
 •	D12 ==> Enable
 •	D6 ==> DB4

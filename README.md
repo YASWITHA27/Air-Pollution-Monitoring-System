@@ -19,9 +19,16 @@ I have worked on Arduino IDE associating the hardware circuitry and calibrated t
 
 
 •	GND ==> R/W
+
+
 •	D12 ==> Enable
+
+
 •	D6 ==> DB4
+
+
 •	D5 ==> DB5
+
 •	D4 ==> DB6
 •	D3 ==> DB7
 •	5V ==> LED+

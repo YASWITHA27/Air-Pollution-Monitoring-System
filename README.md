@@ -10,6 +10,7 @@ I have worked on Arduino IDE associating the hardware circuitry and calibrated t
 *Arduino ==> LCD*
 
 •	GND ==> GND
+
 •	5 V ==> Vcc
 
 •	D13 ==> RS

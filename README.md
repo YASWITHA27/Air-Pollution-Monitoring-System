@@ -37,7 +37,7 @@ I have worked on Arduino IDE associating the hardware circuitry and calibrated t
 
 •	5V ==> Vcc
 
-•	Analog0 ==> A0
+•	Analog 0 ==> A0
 
 •	Arduino ==> ESP8266
 
